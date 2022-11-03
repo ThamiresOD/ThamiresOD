@@ -6,9 +6,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54acfd&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thamires+Darci;I'm+24+years+old;I+from+Brazil,+RJ;I+study+software+development+(Full+Stack);Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div justify="column">
+
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThamiresOD&show_icons=true&count_private=true&hide_border=true&title_color=2b94fc&icon_color=54acfd&text_color=c9d1d9&bg_color=0d1117" alt="Thamires Darci github stats" /> 
+  <img width="69%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThamiresOD&show_icons=true&count_private=true&hide_border=true&title_color=2b94fc&icon_color=54acfd&text_color=c9d1d9&bg_color=0d1117" alt="Thamires Darci github stats" /> 
 
   <img align="center" alt="Thata-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thata-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -18,7 +18,7 @@
   <img align="center" alt="Thata-Git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
 </div>
-</div>
+
 <div>
   <br/>
   <br/>
