@@ -3,18 +3,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b94fc&height=150&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54acfd&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thamires+Darci;I'm+24+years+old;I+from+Brazil,+RJ;I+study+software+development+(Full+Stack);Be+Welcome!+:%29)](https://git.io/typing-svg)
-  
 <div>  
-<img align= "left" width="70%" height="190px" src="https://github-readme-stats.vercel.app/api?username=ThamiresOD&show_icons=true&count_private=true&hide_border=true&title_color=2b94fc&icon_color=54acfd&text_color=c9d1d9&bg_color=0d1117" alt="Thamires Darci github stats" /> 
+<img align= "left" width="72%" height="190px" src="https://github-readme-stats.vercel.app/api?username=ThamiresOD&show_icons=true&count_private=true&hide_border=true&title_color=2b94fc&icon_color=54acfd&text_color=c9d1d9&bg_color=0d1117" alt="Thamires Darci github stats" /> 
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" "widht: 80%"><br>
   <img align="center" margin="20" alt="Thata-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thata-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Thata-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thata-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thata-NodeJs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"><br><br>
-  <img align="center" alt="Thata-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Thata-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
  <!--   Tecnologias: -->
   <img align="center" alt="Thata-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Thata-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -27,10 +26,6 @@
   <img align="center" alt="Thata-Phyton" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Thata-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Thata-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-</div>
-
-<div>
-  <br/>
 </div>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=ThamiresOD&bg_color=0d1117&color=2b94fc&line=2b94fc&point=54acfd&hide_border=true&area=true)
