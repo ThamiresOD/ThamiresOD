@@ -8,7 +8,7 @@
 
 
 <div align="center">  
-  <img width="69%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThamiresOD&show_icons=true&count_private=true&hide_border=true&title_color=2b94fc&icon_color=54acfd&text_color=c9d1d9&bg_color=0d1117" alt="Thamires Darci github stats" /> 
+  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThamiresOD&show_icons=true&count_private=true&hide_border=true&title_color=2b94fc&icon_color=54acfd&text_color=c9d1d9&bg_color=0d1117" alt="Thamires Darci github stats" /> 
 
   <img align="center" alt="Thata-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thata-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -20,8 +20,6 @@
 </div>
 
 <div>
-  <br/>
-  <br/>
   <br/>
 </div>
 
