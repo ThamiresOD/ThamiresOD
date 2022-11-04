@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54acfd&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thamires+Darci;I'm+24+years+old;I+from+Brazil,+RJ;I+study+software+development+(Full+Stack);Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-<a><img width="420px" height="137px" src="https://github-readme-stats.vercel.app/api?username=ThamiresOD&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="Thamires Darci github stats" /><!-- wi*quL3fcV --><img width="380px" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamiresOD&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Thamires Darci github stats" /></a>
+<a><img width="430px" height="137px" src="https://github-readme-stats.vercel.app/api?username=ThamiresOD&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="Thamires Darci github stats" /><!-- wi*quL3fcV --><img width="390px" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThamiresOD&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Thamires Darci github stats" /></a>
 </div>
   
 <div align="center">
