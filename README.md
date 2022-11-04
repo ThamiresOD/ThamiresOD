@@ -1,5 +1,5 @@
 ### Buuuh 👻 Eu sou a Thata! Chega aí! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
+<div bg_color="4dfcff"> </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b94fc&height=150&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54acfd&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thamires+Darci;I'm+24+years+old;I+from+Brazil,+RJ;I+study+software+development+(Full+Stack);Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -35,7 +35,8 @@
 
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=ThamiresOD&bg_color=0d1117&color=2b94fc&line=2b94fc&point=52fa5a&hide_border=true&area=true)
-
+  <hr></hr>
+  
 <div align="center">
   <a href="https://www.instagram.com/thata.ouverney" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/1005118031032230051" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
