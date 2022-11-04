@@ -25,24 +25,30 @@
   <img align="center" alt="Thata-Phyton" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Thata-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Thata-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+
 </div>
+
 
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=ThamiresOD&bg_color=0d1117&color=2b94fc&line=2b94fc&point=54acfd&hide_border=true&area=true)
 
-<div align="center">
+<div align="left"  style="display: inline_block">
   
-![Snake animation](https://github.com/ThamiresOD/ThamiresOD/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-
+![Snake animation](https://github.com/ThamiresOD/ThamiresOD/blob/output/github-contribution-grid-snake.svg) 
+<a align="center" justfy="center" style="border-radius:50px" href="https://picasion.com/"><img src="https://i.picasion.com/pic92/f8ee7c3ed0fc808f590af40dc995d030.gif" width="125" height="140" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+   
+ </div>
+ 
 <div align="center">
   <a href="https://www.instagram.com/thata.ouverney" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/1005118031032230051" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:touverneydarci@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a align="center" justify="top" href = "mailto:touverneydarci@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thamires-darci-377637242" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+  </div>
 </div>
+
+
 
 <!--
 **ThamiresOD/ThamiresOD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
