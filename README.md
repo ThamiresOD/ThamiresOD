@@ -43,7 +43,7 @@
   <a align="center" justify="top" href = "mailto:touverneydarci@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thamires-darci-377637242" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <div>
-    <a align="center" justfy="center" style="border-radius:50px" href="https://picasion.com/"><img src="https://i.picasion.com/pic92/f8ee7c3ed0fc808f590af40dc995d030.gif" width="155" height="160" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+    <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/53321eca22eeda5826aaf2129b8ce470.gif" width="155" height="160" border="0" alt="https://picasion.com/" alt="Thata-Giff" /></a><br /><a href="https://picasion.com/"></a>
   </div>
   </div>
 </div>
