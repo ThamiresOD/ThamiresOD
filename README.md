@@ -34,7 +34,7 @@
  
 
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=ThamiresOD&bg_color=0d1117&color=2b94fc&line=2b94fc&point=54acfd&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=ThamiresOD&bg_color=0d1117&color=2b94fc&line=2b94fc&point=52fa5a&hide_border=true&area=true)
 
 <div align="center">
   <a href="https://www.instagram.com/thata.ouverney" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
