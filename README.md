@@ -1,4 +1,4 @@
-### Buuuh 👻 Eu sou a Thata! Chega aí!👋
+### Buuuh 👻 Eu sou a Thata! Chega aí! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b94fc&height=150&section=header"/>
 
