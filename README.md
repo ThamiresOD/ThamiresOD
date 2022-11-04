@@ -7,7 +7,7 @@
 <img align= "left" width="72%" height="190px" src="https://github-readme-stats.vercel.app/api?username=ThamiresOD&show_icons=true&count_private=true&hide_border=true&title_color=2b94fc&icon_color=54acfd&text_color=c9d1d9&bg_color=0d1117" alt="Thamires Darci github stats" /> 
 </div>
 
-<div style="display: inline_block"><br>
+<div style="margin-inline_end"><br>
   <img align="center" margin="20" alt="Thata-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thata-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Thata-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
