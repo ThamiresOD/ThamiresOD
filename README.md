@@ -32,6 +32,10 @@
 
  </div>
  
+
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=ThamiresOD&bg_color=0d1117&color=2b94fc&line=2b94fc&point=54acfd&hide_border=true&area=true)
+
 <div align="center">
   <a href="https://www.instagram.com/thata.ouverney" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/1005118031032230051" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -42,9 +46,6 @@
   </div>
   </div>
 </div>
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=ThamiresOD&bg_color=0d1117&color=2b94fc&line=2b94fc&point=54acfd&hide_border=true&area=true)
-
 
 
 <!--
