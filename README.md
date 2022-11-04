@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54acfd&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thamires+Darci;I'm+24+years+old;I+from+Brazil,+RJ;I+study+software+development+(Full+Stack);Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<img align="left" width="72%" height="190px" src="https://github-readme-stats.vercel.app/api?username=ThamiresOD&show_icons=true&count_private=true&hide_border=true&title_color=2b94fc&icon_color=54acfd&text_color=c9d1d9&bg_color=0d1117" alt="Thamires Darci github stats" /> 
+<img align="left" width="65%" height="190px" src="https://github-readme-stats.vercel.app/api?username=ThamiresOD&show_icons=true&count_private=true&hide_border=true&title_color=2b94fc&icon_color=54acfd&text_color=c9d1d9&bg_color=0d1117" alt="Thamires Darci github stats" /> 
 
 <div><br>
   <img align="center" margin="20" alt="Thata-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
