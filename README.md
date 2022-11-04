@@ -1,4 +1,4 @@
-### Buuuh 👻 Eu sou a Thata! Chega aí!👋       #Read-me em construção! 
+### Buuuh 👻 Eu sou a Thata! Chega aí!👋
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b94fc&height=150&section=header"/>
 
