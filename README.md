@@ -1,6 +1,6 @@
 ### Buuuh 👻 Eu sou a Thata! Chega aí!👋
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a,fff&bg_color=0,52fa5a,4dfcff,c64dff&height=150&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&&bg_color=ea6161,ffc64d,fffc4d,52fa5a,fff&bg_color=0,52fa5a,4dfcff,c64dff&height=150&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54acfd&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thamires+Darci;I'm+24+years+old;I+from+Brazil,+RJ;I+study+software+development+(Full+Stack);Be+Welcome!+:%29)](https://git.io/typing-svg)
 
