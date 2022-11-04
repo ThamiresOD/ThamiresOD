@@ -32,7 +32,7 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=ThamiresOD&bg_color=0d1117&color=2b94fc&line=2b94fc&point=54acfd&hide_border=true&area=true)
 
-<div align="left"  style="display: inline_block">
+<div align="center">
   
 ![Snake animation](https://github.com/ThamiresOD/ThamiresOD/blob/output/github-contribution-grid-snake.svg) 
 
