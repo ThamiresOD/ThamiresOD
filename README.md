@@ -26,7 +26,9 @@
   <img align="center" alt="Thata-Vue" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 </div>
 <div align="center">
- <sub>|_______________________________Developing____________________________|________________Skilled____________________|___________________Goals_____________________|</sub>
+ <sub>
+|________________________________Developing_____________________________|_________________Skilled_____________________|____________________Goals______________________|
+  </sub>
 </div>
   
 <div align="center">
