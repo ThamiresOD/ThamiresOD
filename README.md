@@ -25,7 +25,10 @@
   <img align="center" alt="Thata-Ts" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Thata-Vue" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 </div>
-<sub marginLeft="25">Developing</sub>
+<div align="center">
+ <sub>|_______________________________Developing____________________________|________________Skilled____________________|___________________Goals_____________________|</sub>
+</div>
+  
 <div align="center">
   
 ![Snake animation](https://github.com/ThamiresOD/ThamiresOD/blob/output/github-contribution-grid-snake.svg) 
