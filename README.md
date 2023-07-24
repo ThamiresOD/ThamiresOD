@@ -32,9 +32,10 @@
 </div>
   
 <div align="center">
-  
-![Snake animation](https://github.com/ThamiresOD/ThamiresOD/blob/output/github-contribution-grid-snake.svg) 
+ 
+  ![Snake animation](https://github.com/ThamiresOD/ThamiresOD/blob/output/github-contribution-grid-snake.svg)
 
+  ____ R.I.P. Snake ____
  </div>
  
 
