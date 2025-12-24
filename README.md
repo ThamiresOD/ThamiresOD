@@ -2,7 +2,7 @@
 <div bg_color="4dfcff"> </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b94fc&height=150&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54acfd&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thamires+Darci;I'm+26+years+old;I'm+from+Brazil,+RJ;I+study+software+development+(Full+Stack);Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=54acfd&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Thamires+Darci;I'm+27+years+old;I'm+from+Brazil,+RJ;I+study+software+development+(Full+Stack);Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
 <a><img width="410px" height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThamiresOD&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="Thamires Darci github stats" /><!-- wi*quL3fcV --><img width="340px" height="137px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThamiresOD&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Thamires Darci github stats" /></a>
