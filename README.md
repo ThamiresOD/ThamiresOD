@@ -25,11 +25,6 @@
   <img align="center" alt="Thata-Ts" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Thata-Vue" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 </div>
-<div align="center">
- <sub>
-|________________________________Developing_____________________________|_________________Skilled_______________________|__________________Goals______________________|
-  </sub>
-</div>
   
 <div align="center">
  
